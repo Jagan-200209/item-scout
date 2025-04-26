@@ -22,7 +22,7 @@ The Lost and Found Bulletin Board project is a community-driven initiative that 
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/arjuncvinod/Lost-And-Found.git
+git clone https://github.com/Jagan-200209/item-scout.git
 cd lost-and-found
 ```
 ### Install server dependencies
