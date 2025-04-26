@@ -54,6 +54,6 @@ The server will run on http://localhost:8000, and the client will be available a
 3![image](https://github.com/Jagan-200209/item-scout/blob/main/Screenshot%202025-04-26%20111208.jpg)
 3![image](https://github.com/Jagan-200209/item-scout/blob/main/Screenshot%202025-04-26%20111320.jpg)
 4![image](https://github.com/Jagan-200209/item-scout/blob/main/Screenshot%202025-04-26%20111431.jpg)
-5![image](https://github.com/arjuncvinod/Lost-And-Found/assets/68469520/337b8c7c-c689-480f-b45a-8de7fc77e7c7)
+5![image](https://github.com/Jagan-200209/item-scout/blob/main/Screenshot%202025-04-26%20111500.jpg)
 
 
