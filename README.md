@@ -51,7 +51,7 @@ The server will run on http://localhost:8000, and the client will be available a
 
 ### screenshots
 1![image](https://github.com/Jagan-200209/item-scout/blob/main/Screenshot%202025-04-26%20111136.jpg)
-3![image](https://github.com/Jagan-200209/item-scout/blob/main/Screenshot%202025-04-26%20111208.jpg)
+2![image](https://github.com/Jagan-200209/item-scout/blob/main/Screenshot%202025-04-26%20111208.jpg)
 3![image](https://github.com/Jagan-200209/item-scout/blob/main/Screenshot%202025-04-26%20111320.jpg)
 4![image](https://github.com/Jagan-200209/item-scout/blob/main/Screenshot%202025-04-26%20111431.jpg)
 5![image](https://github.com/Jagan-200209/item-scout/blob/main/Screenshot%202025-04-26%20111500.jpg)
